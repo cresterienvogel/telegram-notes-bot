@@ -1,9 +1,9 @@
 # 🗒️ Telegram Notes Bot  
 
 <p>
-  <img src="https://img.shields.io/badge/Aiogram-3.13.1-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-16-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiogram-3.13.1-blue?&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-16-316192?&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?&logo=docker&logoColor=white" />
 </p>
 
 ## 📌 Overview
