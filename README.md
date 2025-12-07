@@ -35,7 +35,7 @@ It allows you to create, view, and delete notes directly in Telegram.
 | Driver | asyncpg |
 | ORM | SQLAlchemy 2 |
 | Runtime | Python 3.12 |
-| Container | Docker |
+| Deployment | Docker |
 
 ## 🚀 Quick Start
 
