@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-**Telegram Notes Bot** is a minimalist note-taking bot.  
+**Telegram Notes Bot** is a minimalistic note-taking bot.  
 It allows you to create, view, and delete notes directly in Telegram.
 
 - No reminders
